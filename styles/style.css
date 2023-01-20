@@ -106,6 +106,7 @@ hr{
     }
     .player, .blog{
         flex-direction: column;
+       
     }
    
 }
